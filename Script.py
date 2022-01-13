@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+    START_TXT = ""NAMASTE {},
+MERA NAAM HAI <a href=https://t.me/{}>{}</a>, MAI AAPKO LAKAR DUNGA 𝙼𝙾𝚅𝙸𝙴𝚂 & WEB SERIES,BASS MUJHE ADD KIJIYE APNE 𝙶𝚁𝙾𝚄𝙿 MEIN 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Maverick19850806 is an open source project.
-- Source - https://github.com/Maverick19850806/EvaMaria
+- Source - https://github.com/Maverick19850806/harsh8
 
 <b>DEVS:</b>
 - <a href=https://t.me/Maveriicckkk>Team Movies Masti Magic</a>"""
@@ -36,7 +36,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Maveriicckkk24*7 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
